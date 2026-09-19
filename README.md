@@ -44,9 +44,37 @@ I connected to the Windows virtual machine using Remote Desktop. All subsequent 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1152" height="648" alt="OsTicket Installation Files" src="https://github.com/user-attachments/assets/cc18e892-868c-4ee2-af2a-32418f1a77fa" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I downloaded the osTIcket Installation Files and unzipped it onto the Virtual Machines desktop. These files will be use throughout this lab to install osTicket and some of it's dependences. 
+</p>
+<br />
+
+
+<p>
+
+</p>
+<p>
+In Microsoft Azure I first created a Windows 11 Virtual Machine to serve as the environment for my osTicket installation. I configured a the VM with 2 Virtual CPUs and named it osticket-vm. This VM will host the web server, PHP enviorment, MySQL database, and osTicket application. Also, credentials were configured during the lab but are intentionally excluded from this documentation for security reasons.
+</p>
+<br />
+
+<p>
+
+
+</p>
+<p>
+I connected to the Windows virtual machine using Remote Desktop. All subsequent osTicket installation and configuration tasks were performed inside this VM.
+</p>
+<br />
+
+<p>
+
+
+</p>
+<p>
+I downloaded the osTIcket Installation Files and unzipped it onto the Virtual Machines desktop. These files will be use throughout this lab to install osTicket and some of it's dependences. 
 </p>
 <br />
