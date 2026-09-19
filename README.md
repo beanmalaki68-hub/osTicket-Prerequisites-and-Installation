@@ -101,3 +101,16 @@ I accessed the osTicket application through IIS using the default HTTP port. At 
 I used HeidiSQL to connect to the MySQL server and created a database named osTicket. This database will provide the data storage required by the osTicket application. I connected the osTicket application to the MySQL database which allows osTicket to store and retrieve application data from the database server.
 </p>
 <br />
+
+</p>
+<img width="1062" height="818" alt="image" src="https://github.com/user-attachments/assets/511ca35c-649b-474d-8529-f9b9f8e9da44" />
+
+</p>
+<p>
+After connecting the osTicket application to my database I was able to successfully install osTicket.
+</p>
+<br />
+
+## Summary
+
+This lab documents the installation and configuration of **osTicket on a Windows Virtual Machine (VM) hosted in Microsoft Azure**. The lab included setting up Internet Information Services (IIS) with Common Gateway Interface (CGI), installing and configuring PHP and MySQL, configuring PHP extensions, deploying osTicket through IIS, creating the osTicket database with HeidiSQL, and connecting the application to the database. The installation was then verified by accessing both the staff login page and end-user portal. 
