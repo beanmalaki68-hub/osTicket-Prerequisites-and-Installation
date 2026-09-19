@@ -56,10 +56,12 @@ I downloaded the osTIcket Installation Files and unzipped it onto the Virtual Ma
 <p>
 <img width="556" height="595" alt="Install IIS with CGI" src="https://github.com/user-attachments/assets/6882cc8b-d567-4496-9cf7-f3994c0fd2aa" />
 
-</p>
+</p>I installed IIS (Internet Information Services) whit CGI (Common Gateway Interface) enabled. This will act as a web server allowing me to run the osTicket application
 <p>
+<img width="1167" height="1019" alt="image" src="https://github.com/user-attachments/assets/57e2365f-9227-47da-b35b-8a634fd3e735" />
 
 </p>
+After Installing IIS I installed PHP and its components (which osTicket uses to execute application functions) as well as my SQL (a backend database) I then registered PHP with IIS, allowing IIS to process PHP files that are required by the osTicket application. 
 <br />
 
 <p>
