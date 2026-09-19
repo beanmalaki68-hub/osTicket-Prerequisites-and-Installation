@@ -24,7 +24,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Remote Desktop installed 
 - Funds or Free Subscription giving you the ability to create resources 
 
-<h2>Installation Steps</h2>
+<h2>Virtual Machine Creation</h2>
 
 <p>
 <img width="1122" height="770" alt="Screenshot 2026-09-18 215100" src="https://github.com/user-attachments/assets/c443c48e-4821-4a20-9020-e360d68df849" />
