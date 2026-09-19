@@ -54,10 +54,11 @@ I downloaded the osTIcket Installation Files and unzipped it onto the Virtual Ma
 
 
 <p>
+<img width="556" height="595" alt="Install IIS with CGI" src="https://github.com/user-attachments/assets/6882cc8b-d567-4496-9cf7-f3994c0fd2aa" />
 
 </p>
 <p>
-In Microsoft Azure I first created a Windows 11 Virtual Machine to serve as the environment for my osTicket installation. I configured a the VM with 2 Virtual CPUs and named it osticket-vm. This VM will host the web server, PHP enviorment, MySQL database, and osTicket application. Also, credentials were configured during the lab but are intentionally excluded from this documentation for security reasons.
+
 </p>
 <br />
 
