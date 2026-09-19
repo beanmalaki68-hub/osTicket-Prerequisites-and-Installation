@@ -84,10 +84,20 @@ I extracted the osTicket application and placed its upload directory inside the 
 <br />
 
 <p>
+<img width="1773" height="1031" alt="image" src="https://github.com/user-attachments/assets/7b6e3d50-80f0-462f-9f51-9745770a2b73" />
 
 
 </p>
 <p>
-I downloaded the osTIcket Installation Files and unzipped it onto the Virtual Machines desktop. These files will be use throughout this lab to install osTicket and some of it's dependences. 
+I accessed the osTicket application through IIS using the default HTTP port. At this point, the osTicket installer detected the application environment
+</p>
+<br />
+
+</p>
+<img width="840" height="943" alt="image" src="https://github.com/user-attachments/assets/9199bbfe-ec2d-44b3-b400-564ba503784f" />
+
+</p>
+<p>
+I used HeidiSQL to connect to the MySQL server and created a database named osTicket. This database will provide the data storage required by the osTicket application. I connected the osTicket application to the MySQL database which allows osTicket to store and retrieve application data from the database server.
 </p>
 <br />
