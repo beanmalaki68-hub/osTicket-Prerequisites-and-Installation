@@ -121,3 +121,18 @@ Next, I logged into IIS with administrator privileges and registered the new PHP
 I extracted the osTicket files and placed them in C:\inetpub\wwwroot, which is the web root directory used by IIS. I then renamed the folder from “upload” to “osTicket” so it would be easier to identify and access. Finally, I restarted IIS so the web server could reload the changes and serve the osTicket application.This is important because it places the osTicket application files in the web root directory where IIS can access and serve them.
 
 <h2>Video Walkthorugh</h2>
+
+
+# Step 13 - Browsing to osTicket and enabling extensions 
+
+I then went to IIS and browsed to osTicket to make sure that everything I had configured so far was working correctly. After that, I enabled the PHP extensions php_imap.dll, php_intl.dll, and php_opcache.dll. These extensions are important because they provide additional functionality that osTicket can use, including email communication, internationalization features, and improved PHP performance.
+
+<h2>Video Walkthrough</h2>
+
+
+# Step 14 - Renaming Config file and changing permissions
+
+Next, I located the sample configuration file and renamed it so that osTicket would recognize it as the main configuration file. I then changed the permissions on the file to give the necessary access for osTicket to configure and use the file during the installation process.
+
+<h2>Video Walkthrough</h2>
+
