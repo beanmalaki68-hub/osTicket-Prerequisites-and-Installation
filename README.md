@@ -38,7 +38,7 @@ https://youtu.be/e3He0nQEsnY
  
 Then, I created a Virtual Machine (VM) within Microsoft Azure. This Virtual Machine will act as my computer, which I will use to install osTicket. Although Virtual Machines are not physical computers, they function like physical computers by using virtualized resources such as processing power, memory, storage, and networking from physical hardware in Microsoft's Azure data centers. In this case, I will remotely connect to this Virtual Machine and install and configure osTicket on it.
 
-<h3>Video Walkthrough</h3>
+<h2>Video Walkthrough</h2>
 
 https://youtu.be/5Uj9-WLCu1s
 
@@ -46,7 +46,7 @@ https://youtu.be/5Uj9-WLCu1s
 
 Then, I used Remote Desktop Protocol (RDP) to log into the Virtual Machine that I had just created. This is a useful tool for IT professionals to understand because there are many situations where a Help Desk professional may need to remotely access an end user’s device to troubleshoot and resolve an issue. Remote access allows the technician to work on the device without having to be physically present at the user’s location.
 
-<h4>Video Walkthruogh</h4>
+<h2>Video Walkthruogh</h2>
 
 https://youtu.be/yIaEIG8M-ow
 
@@ -54,6 +54,14 @@ https://youtu.be/yIaEIG8M-ow
 
 Next, I used the link provided to me through CourseCareers to download the ZIP file onto the Virtual Machine. Since osTicket is a web-based application, it requires several components to run on the back end, such as a web server and a database. I downloaded the ZIP file because it contains the osTicket application files that I will use while configuring the components required to install and run osTicket.
 
-<h5>Video Walkthrough</h5>
+<h2>Video Walkthrough</h2>
 
 https://youtu.be/rOWTv8wkPdw
+
+# Step 5 - Installing IIS & CGI
+
+Then, I installed IIS and CGI. IIS (Internet Information Services) is the web server I will use to process requests made when accessing osTicket. I also installed CGI (Common Gateway Interface), which allows IIS to communicate with PHP, the programming language used by osTicket, so that PHP can process the request and generate a response.
+
+<h2>Video Walkthrough</h2>
+
+https://youtu.be/eRx2HAL9SKw
