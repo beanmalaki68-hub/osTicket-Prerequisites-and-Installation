@@ -98,3 +98,11 @@ Next, I then downloaded and installed VC_redist, which provides runtime componen
 <h2>Video Walkthrough</h2>
 
 https://youtu.be/T1GCAs1K1gc
+
+# Step 10 - Installing the SQL Database
+
+I then installed the SQL database, which will store the data that our osTicket system will use. This can include information such as users, tickets, groups, permissions, and other data needed for the osTicket system to function properly.
+
+<h2>Video Walkthorugh</h2>
+
+https://youtu.be/dEf6IU2gqG8
