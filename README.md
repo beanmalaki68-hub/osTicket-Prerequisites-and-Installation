@@ -41,3 +41,11 @@ Then, I created a Virtual Machine (VM) within Microsoft Azure. This Virtual Mach
 <h3>Video Walkthrough</h3>
 
 https://youtu.be/5Uj9-WLCu1s
+
+# Step 3 - Remoting into the Virtual Machine 
+
+Then, I used Remote Desktop Protocol (RDP) to log into the Virtual Machine that I had just created. This is a useful tool for IT professionals to understand because there are many situations where a Help Desk professional may need to remotely access an end user’s device to troubleshoot and resolve an issue. Remote access allows the technician to work on the device without having to be physically present at the user’s location.
+
+<h4>Video Walkthruogh</h4>
+
+https://youtu.be/yIaEIG8M-ow
