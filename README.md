@@ -65,3 +65,11 @@ Then, I installed IIS and CGI. IIS (Internet Information Services) is the web se
 <h2>Video Walkthrough</h2>
 
 https://youtu.be/eRx2HAL9SKw
+
+# Step 6 - Installing PHP Manager
+
+After installing IIS and CGI, I then installed PHP Manager, which is a tool used to manage and configure PHP on IIS. PHP is the programming language that osTicket uses. CGI acts as the middleman between IIS and PHP, allowing IIS to communicate with PHP so that requests can be processed and responses can be returned to the user.
+
+<h2>Video Walkthrough</h2>
+
+https://youtu.be/fyP3Dpw8ic4
