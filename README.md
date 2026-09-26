@@ -136,3 +136,9 @@ Next, I located the sample configuration file and renamed it so that osTicket wo
 
 <h2>Video Walkthrough</h2>
 
+
+# Step 15 - Setting up osTicket in brower and installing HeidiSQL
+
+I continued the osTicket setup in the browser by giving the help desk a name and default email address. Then I used HeidiSQL to create the osTicket MySQL database, which will store the information used by the help desk system. Finally, I entered the database name and login information into the osTicket installer and clicked Install Now so osTicket could connect to the database and create what it needs to operate.
+
+<h2>Video Walkthrough</h2>
