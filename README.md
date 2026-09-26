@@ -49,3 +49,11 @@ Then, I used Remote Desktop Protocol (RDP) to log into the Virtual Machine that 
 <h4>Video Walkthruogh</h4>
 
 https://youtu.be/yIaEIG8M-ow
+
+# Step 4 - Installing osticket zip file onto the Virtual Machine
+
+Next, I used the link provided to me through CourseCareers to download the ZIP file onto the Virtual Machine. Since osTicket is a web-based application, it requires several components to run on the back end, such as a web server and a database. I downloaded the ZIP file because it contains the osTicket application files that I will use while configuring the components required to install and run osTicket.
+
+<h5>Video Walkthrough</h5>
+
+https://youtu.be/rOWTv8wkPdw
