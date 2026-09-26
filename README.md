@@ -106,3 +106,18 @@ I then installed the SQL database, which will store the data that our osTicket s
 <h2>Video Walkthorugh</h2>
 
 https://youtu.be/dEf6IU2gqG8
+
+# Step 11 - Making our IIS webserver aware of PHP
+
+Next, I logged into IIS with administrator privileges and registered the new PHP version. This allows IIS to locate the PHP installation and know which version of PHP to use when processing PHP applications. This is important because osTicket is built using PHP, so IIS needs to be properly configured to work with PHP in order for osTicket to function correctly.
+
+<h2>Video Walkthrough</h2>
+
+
+
+
+# Step 12 - "Installing osTicket" 
+
+I extracted the osTicket files and placed them in C:\inetpub\wwwroot, which is the web root directory used by IIS. I then renamed the folder from “upload” to “osTicket” so it would be easier to identify and access. Finally, I restarted IIS so the web server could reload the changes and serve the osTicket application.This is important because it places the osTicket application files in the web root directory where IIS can access and serve them.
+
+<h2>Video Walkthorugh</h2>
