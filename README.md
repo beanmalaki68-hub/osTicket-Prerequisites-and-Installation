@@ -82,3 +82,12 @@ I then installed the Rewrite Module, which allows the IIS web server to rewrite 
 
 https://youtu.be/4BUkbTUN07k
 
+
+# Step 8 - Creating a PHP file on the C: drive and extracting the PHP language onto the file
+
+I then created a folder on the C: drive called PHP and extracted the PHP files into the folder I had just created. These files provide the PHP environment needed to run applications such as osTicket.
+
+<h2>Video Walkthrough</h2>
+
+https://youtu.be/xLx9BB0gkx8
+
