@@ -91,3 +91,10 @@ I then created a folder on the C: drive called PHP and extracted the PHP files i
 
 https://youtu.be/xLx9BB0gkx8
 
+# Step 9 - Installing the VC_Redist file
+
+Next, I then downloaded and installed VC_redist, which provides runtime components that some Windows programs and software dependencies need in order to run properly. Installing it helps make sure that the necessary supporting components are available on my Virtual Machine as I set up the environment needed to run osTicket.
+
+<h2>Video Walkthrough</h2>
+
+https://youtu.be/T1GCAs1K1gc
