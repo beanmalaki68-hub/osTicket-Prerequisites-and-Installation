@@ -73,3 +73,12 @@ After installing IIS and CGI, I then installed PHP Manager, which is a tool used
 <h2>Video Walkthrough</h2>
 
 https://youtu.be/fyP3Dpw8ic4
+
+# Step 7 - Installing the Rewrite Component 
+
+I then installed the Rewrite Module, which allows the IIS web server to rewrite or route URLs based on the application’s requirements and configuration.
+
+<h2>Video Walkthrough</h2>
+
+https://youtu.be/4BUkbTUN07k
+
