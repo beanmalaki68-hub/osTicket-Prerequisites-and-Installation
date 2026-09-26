@@ -110,7 +110,3 @@ I used HeidiSQL to connect to the MySQL server and created a database named osTi
 After connecting the osTicket application to my database I was able to successfully install osTicket.
 </p>
 <br />
-
-## Summary
-
-This lab documents the installation and configuration of **osTicket on a Windows Virtual Machine (VM) hosted in Microsoft Azure**. The lab included setting up Internet Information Services (IIS) with Common Gateway Interface (CGI), installing and configuring PHP and MySQL, configuring PHP extensions, deploying osTicket through IIS, creating the osTicket database with HeidiSQL, and connecting the application to the database. The installation was then verified by accessing both the staff login page and end-user portal. 
