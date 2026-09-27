@@ -113,7 +113,7 @@ Next, I logged into IIS with administrator privileges and registered the new PHP
 
 <h2>Video Walkthrough</h2>
 
-
+https://youtu.be/zWO79e33LG0
 
 
 # Step 12 - "Installing osTicket" 
@@ -122,12 +122,16 @@ I extracted the osTicket files and placed them in C:\inetpub\wwwroot, which is t
 
 <h2>Video Walkthorugh</h2>
 
+https://youtu.be/ZnwRAmJmumk
+
 
 # Step 13 - Browsing to osTicket and enabling extensions 
 
 I then went to IIS and browsed to osTicket to make sure that everything I had configured so far was working correctly. After that, I enabled the PHP extensions php_imap.dll, php_intl.dll, and php_opcache.dll. These extensions are important because they provide additional functionality that osTicket can use, including email communication, internationalization features, and improved PHP performance.
 
 <h2>Video Walkthrough</h2>
+
+https://youtu.be/ZI9ajvcD9jY
 
 
 # Step 14 - Renaming Config file and changing permissions
@@ -136,9 +140,15 @@ Next, I located the sample configuration file and renamed it so that osTicket wo
 
 <h2>Video Walkthrough</h2>
 
+https://youtu.be/_2B4JAtzC4o
+
 
 # Step 15 - Setting up osTicket in brower and installing HeidiSQL
 
 I continued the osTicket setup in the browser by giving the help desk a name and default email address. Then I used HeidiSQL to create the osTicket MySQL database, which will store the information used by the help desk system. Finally, I entered the database name and login information into the osTicket installer and clicked Install Now so osTicket could connect to the database and create what it needs to operate.
 
 <h2>Video Walkthrough</h2>
+
+https://youtu.be/VyMJJD70mtE
+
+
