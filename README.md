@@ -5,10 +5,6 @@
 <h1>osTicket - Prerequisites and Installation</h1>
 
 
-https://github.com/user-attachments/assets/fb1cece7-7732-4b71-a7f8-ef257011061a
-
-
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
